@@ -8,6 +8,7 @@ A reimplementation of MrPowerGamerBR's [Droidtale](https://github.com/MrPowerGam
 - You must have .NET Framework 4.6.1+ and Java Runtime Enviroment installed
 - Find a fitting runtime for the game you're going to wrap.
 - [Download](https://github.com/toarch7/GM-Wrapper/releases) and extract GM-Wrapper into game's directory
+
 ![Example 1](https://i.imgur.com/ltF6HWG.png)
 - Run GM-Wrapper.exe 
 - Wait until it prompts for exit
