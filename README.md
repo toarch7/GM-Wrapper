@@ -1,7 +1,7 @@
 
 # GM-Wrapper
 
-A reimplementation of MrPowerGamerBR's [Droidtale](https://github.com/MrPowerGamerBR/Droidtale/) - GameMaker Android game wrapper written in C#
+A reimplementation of MrPowerGamerBR's [Droidtale](https://github.com/MrPowerGamerBR/Droidtale/) - GameMaker Android game wrapper, but written in C#
 
 # Usage
 
