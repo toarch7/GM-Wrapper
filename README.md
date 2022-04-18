@@ -10,8 +10,12 @@ A reimplementation of MrPowerGamerBR's [Droidtale](https://github.com/MrPowerGam
 - [Download](https://github.com/toarch7/GM-Wrapper/releases) and extract GM-Wrapper into game's directory
 
 ![Example 1](https://i.imgur.com/ltF6HWG.png)
+
 - Run GM-Wrapper.exe 
 - Wait until it prompts for exit
+
+![Example 2](https://i.imgur.com/CsmxFth.png)
+
 - The result package, base_signed.apk, can be installed, but before it's recommended to change package name.
 
 # Things to do:
