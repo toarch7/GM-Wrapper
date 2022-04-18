@@ -21,8 +21,9 @@ A reimplementation of MrPowerGamerBR's [Droidtale](https://github.com/MrPowerGam
 # Things to do:
 
 - Implement action menu
-- Add APK Editing functionality (package name changer, custom keystores)
+- Add APK Editing functionality (package name editor, custom keystore support, etc)
 - Turn it into UndertaleModTool script
+- Automatic runtime detection
 
 # Known Issues:
 
