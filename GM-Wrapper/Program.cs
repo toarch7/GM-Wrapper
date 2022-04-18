@@ -99,10 +99,7 @@ namespace IRULE_Wrapper
             {
                 sourcepath = WORKING_DIRECTORY;
             }
-
-            Console.WriteLine(sourcepath);
-            Console.ReadKey();
-
+            
             string[] files = Directory.GetFiles(sourcepath);
             string[] directories = Directory.GetDirectories(sourcepath);
             string[] datafiles = files.Concat(directories).ToArray();
@@ -138,9 +135,6 @@ namespace IRULE_Wrapper
                 }
                 else if (Directory.Exists(file))
                 {
-                    Console.WriteLine(destpath + "/" + name);
-                    Console.WriteLine(sourcepath);
-                    Console.ReadKey();
                     Directory.CreateDirectory(destpath + "/" + name);
                     PushFiles(destpath + "/" + name + "/", sourcepath + "/" + name);
                 }
